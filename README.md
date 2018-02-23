@@ -1,5 +1,7 @@
 # React Redux Examples
 
+![gameplay gif](https://raw.githubusercontent.com/mmrtnz/react-redux-examples/master/gameplay.gif)
+
 Special thanks to [HackersUTD](https://www.facebook.com/groups/utdhackers/) for hosting their React Workshop! This repo has the three versions of the tictactoe game discussed there.
 
 - `tictactoe-original`: The [final result](https://codepen.io/gaearon/pen/gWWZgR?editors=0010) from the tutorial organized into separate files. See the complete tutorial [here](https://reactjs.org/tutorial/tutorial.html).
